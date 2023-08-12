@@ -1,3 +1,11 @@
+####################################
+# 创建者：v2rayse.com
+# 客户端：Clash.Meta
+# 创建时间：2023-08-12 16:44:04
+# 使用模版：V2RaySE 默认模版
+# 节点数量：200
+####################################
+# !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
 allow-lan: true
 log-level: info
@@ -16,1437 +24,1437 @@ dns:
 proxies:
   - {"name":"🇮🇸 time.is","type":"vless","server":"time.is","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.shopify.com","type":"vless","server":"www.shopify.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org ","type":"vless","server":"cdn.anycast.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.glassdoor.com ","type":"vless","server":"www.glassdoor.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com ","type":"vless","server":"www.csgo.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com","type":"vless","server":"singapore.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 icook.hk ","type":"vless","server":"icook.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org ","type":"vless","server":"www.4chan.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org ","type":"vless","server":"www.baipiao.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com ","type":"vless","server":"singapore.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua ","type":"vless","server":"www.gov.ua","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua","type":"vless","server":"www.gov.ua","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net ","type":"vless","server":"www.ipget.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org","type":"vless","server":"www.baipiao.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com ","type":"vless","server":"singapore.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org ","type":"vless","server":"www.4chan.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa ","type":"vless","server":"www.gco.gov.qa","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org","type":"vless","server":"www.4chan.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org ","type":"vless","server":"cdn.anycast.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org ","type":"vless","server":"cdn.anycast.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw","type":"vless","server":"icook.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua ","type":"vless","server":"www.gov.ua","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net","type":"vless","server":"www.ipget.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com ","type":"vless","server":"japan.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org","type":"vless","server":"xn--b6gac.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net","type":"vless","server":"www.ipget.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua ","type":"vless","server":"www.gov.ua","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com","type":"vless","server":"www.whatismyip.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org ","type":"vless","server":"xn--b6gac.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org _1","type":"vless","server":"cdn.anycast.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.glassdoor.com _1","type":"vless","server":"www.glassdoor.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com _1","type":"vless","server":"www.csgo.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-1","type":"vless","server":"singapore.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-1","type":"vless","server":"icook.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org _1","type":"vless","server":"www.4chan.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org _1","type":"vless","server":"www.baipiao.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-1","type":"vless","server":"singapore.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua-1","type":"vless","server":"www.gov.ua","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua  - 1","type":"vless","server":"www.gov.ua","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net _1","type":"vless","server":"www.ipget.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org_1","type":"vless","server":"www.baipiao.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-2","type":"vless","server":"singapore.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org _2","type":"vless","server":"www.4chan.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa _1","type":"vless","server":"www.gco.gov.qa","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org_1","type":"vless","server":"www.4chan.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org _2","type":"vless","server":"cdn.anycast.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org _3","type":"vless","server":"cdn.anycast.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-1","type":"vless","server":"icook.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua-2","type":"vless","server":"www.gov.ua","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net_1","type":"vless","server":"www.ipget.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-1","type":"vless","server":"japan.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org_1","type":"vless","server":"xn--b6gac.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net_2","type":"vless","server":"www.ipget.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua-3","type":"vless","server":"www.gov.ua","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com_1","type":"vless","server":"www.whatismyip.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org _1","type":"vless","server":"xn--b6gac.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.whoer.net","type":"vless","server":"www.whoer.net","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"malaysia.com ","type":"vless","server":"malaysia.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.glassdoor.com ","type":"vless","server":"www.glassdoor.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw ","type":"vless","server":"icook.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇮🇸 time.is ","type":"vless","server":"time.is","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw","type":"vless","server":"icook.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"malaysia.com _1","type":"vless","server":"malaysia.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.glassdoor.com _2","type":"vless","server":"www.glassdoor.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-1","type":"vless","server":"icook.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇮🇸 英国-1","type":"vless","server":"time.is","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-2","type":"vless","server":"icook.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.visa.com_1","type":"vless","server":"www.visa.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa ","type":"vless","server":"www.gco.gov.qa","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com ","type":"vless","server":"www.whatismyip.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"ip.sb ","type":"vless","server":"ip.sb","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com ","type":"vless","server":"www.visa.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com ","type":"vless","server":"russia.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org ","type":"vless","server":"www.baipiao.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com","type":"vless","server":"www.hugedomains.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua ","type":"vless","server":"www.gov.ua","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com","type":"vless","server":"japan.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa ","type":"vless","server":"www.gco.gov.qa","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com","type":"vless","server":"time.cloudflare.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org ","type":"vless","server":"cdn.anycast.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 icook.hk ","type":"vless","server":"icook.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com ","type":"vless","server":"shopify.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org ","type":"vless","server":"www.baipiao.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com","type":"vless","server":"www.digitalocean.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com","type":"vless","server":"www.udacity.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.ua","type":"vless","server":"www.gov.ua","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com ","type":"vless","server":"www.hugedomains.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"ip.sb ","type":"vless","server":"ip.sb","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com","type":"vless","server":"www.udacity.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"malaysia.com ","type":"vless","server":"malaysia.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com ","type":"vless","server":"time.cloudflare.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net ","type":"vless","server":"www.ipget.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com ","type":"vless","server":"shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com","type":"vless","server":"time.cloudflare.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com ","type":"vless","server":"www.udacity.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net ","type":"vless","server":"www.ipget.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com ","type":"vless","server":"russia.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org ","type":"vless","server":"xn--b6gac.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw ","type":"vless","server":"icook.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udemy.com","type":"vless","server":"www.udemy.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org ","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇮🇸 time.is ","type":"vless","server":"time.is","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇮🇸 time.is ","type":"vless","server":"time.is","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.glassdoor.com ","type":"vless","server":"www.glassdoor.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com ","type":"vless","server":"www.whatismyip.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw ","type":"vless","server":"www.visa.com.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk ","type":"vless","server":"www.visa.com.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com ","type":"vless","server":"www.csgo.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net ","type":"vless","server":"www.whoer.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com ","type":"vless","server":"shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com","type":"vless","server":"www.hugedomains.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com ","type":"vless","server":"www.hugedomains.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com ","type":"vless","server":"shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net ","type":"vless","server":"www.whoer.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.se ","type":"vless","server":"www.gov.se","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa _2","type":"vless","server":"www.gco.gov.qa","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com _1","type":"vless","server":"www.whatismyip.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ip.sb _1","type":"vless","server":"ip.sb","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.visa.com _1","type":"vless","server":"www.visa.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯-1","type":"vless","server":"russia.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org _2","type":"vless","server":"www.baipiao.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com_1","type":"vless","server":"www.hugedomains.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua-4","type":"vless","server":"www.gov.ua","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-1","type":"vless","server":"japan.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa _3","type":"vless","server":"www.gco.gov.qa","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com_1","type":"vless","server":"time.cloudflare.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org _4","type":"vless","server":"cdn.anycast.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-2","type":"vless","server":"icook.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"shopify.com _1","type":"vless","server":"shopify.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org _3","type":"vless","server":"www.baipiao.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com_1","type":"vless","server":"www.digitalocean.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com_1","type":"vless","server":"www.udacity.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ua  - 2","type":"vless","server":"www.gov.ua","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com _1","type":"vless","server":"www.hugedomains.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ip.sb _2","type":"vless","server":"ip.sb","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com_2","type":"vless","server":"www.udacity.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"malaysia.com _2","type":"vless","server":"malaysia.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com _1","type":"vless","server":"time.cloudflare.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net _2","type":"vless","server":"www.ipget.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"shopify.com _2","type":"vless","server":"shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com_2","type":"vless","server":"time.cloudflare.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com _1","type":"vless","server":"www.udacity.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net _3","type":"vless","server":"www.ipget.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯-2","type":"vless","server":"russia.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org _2","type":"vless","server":"xn--b6gac.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-2","type":"vless","server":"icook.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udemy.com_1","type":"vless","server":"www.udemy.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org _3","type":"vless","server":"xn--b6gac.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇮🇸 英国-2","type":"vless","server":"time.is","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇮🇸 英国-3","type":"vless","server":"time.is","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.glassdoor.com _3","type":"vless","server":"www.glassdoor.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com _2","type":"vless","server":"www.whatismyip.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-1","type":"vless","server":"www.visa.com.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-1","type":"vless","server":"www.visa.com.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com _2","type":"vless","server":"www.csgo.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whoer.net _1","type":"vless","server":"www.whoer.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"shopify.com _3","type":"vless","server":"shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com_2","type":"vless","server":"www.hugedomains.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com _2","type":"vless","server":"www.hugedomains.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"shopify.com _4","type":"vless","server":"shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whoer.net _2","type":"vless","server":"www.whoer.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gov.se _1","type":"vless","server":"www.gov.se","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.glassdoor.com","type":"vless","server":"www.glassdoor.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com ","type":"vless","server":"www.csgo.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com ","type":"vless","server":"shopify.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw ","type":"vless","server":"www.visa.com.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com ","type":"vless","server":"singapore.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.se ","type":"vless","server":"www.gov.se","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com _3","type":"vless","server":"www.csgo.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"shopify.com _5","type":"vless","server":"shopify.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-2","type":"vless","server":"www.visa.com.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-3","type":"vless","server":"singapore.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gov.se _2","type":"vless","server":"www.gov.se","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"cdn.xn--b6gac.eu.org ","type":"vless","server":"cdn.xn--b6gac.eu.org","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa ","type":"vless","server":"www.gco.gov.qa","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com ","type":"vless","server":"russia.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"ip.sb ","type":"vless","server":"ip.sb","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.se ","type":"vless","server":"www.gov.se","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org ","type":"vless","server":"www.baipiao.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com ","type":"vless","server":"time.cloudflare.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com","type":"vless","server":"russia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com","type":"vless","server":"japan.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com ","type":"vless","server":"www.udacity.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa","type":"vless","server":"www.gco.gov.qa","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.glassdoor.com ","type":"vless","server":"www.glassdoor.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"malaysia.com ","type":"vless","server":"malaysia.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org ","type":"vless","server":"xn--b6gac.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gco.gov.qa","type":"vless","server":"www.gco.gov.qa","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com ","type":"vless","server":"www.digitalocean.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.glassdoor.com ","type":"vless","server":"www.glassdoor.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com","type":"vless","server":"www.digitalocean.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.baipiao.eu.org","type":"vless","server":"www.baipiao.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 icook.hk ","type":"vless","server":"icook.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.shopify.com ","type":"vless","server":"www.shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com ","type":"vless","server":"japan.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com ","type":"vless","server":"www.udacity.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com","type":"vless","server":"singapore.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org","type":"vless","server":"www.4chan.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.se ","type":"vless","server":"www.gov.se","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com ","type":"vless","server":"www.hugedomains.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.gov.se ","type":"vless","server":"www.gov.se","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com ","type":"vless","server":"www.csgo.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org","type":"vless","server":"cdn.anycast.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp ","type":"vless","server":"www.visa.co.jp","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com ","type":"vless","server":"www.whatismyip.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa _4","type":"vless","server":"www.gco.gov.qa","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯-3","type":"vless","server":"russia.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ip.sb _3","type":"vless","server":"ip.sb","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gov.se _3","type":"vless","server":"www.gov.se","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org _4","type":"vless","server":"www.baipiao.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com _2","type":"vless","server":"time.cloudflare.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯 -1","type":"vless","server":"russia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-2","type":"vless","server":"japan.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com _2","type":"vless","server":"www.udacity.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa_1","type":"vless","server":"www.gco.gov.qa","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.glassdoor.com _4","type":"vless","server":"www.glassdoor.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"malaysia.com _3","type":"vless","server":"malaysia.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org _4","type":"vless","server":"xn--b6gac.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gco.gov.qa_2","type":"vless","server":"www.gco.gov.qa","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com _1","type":"vless","server":"www.digitalocean.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.glassdoor.com _5","type":"vless","server":"www.glassdoor.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com_2","type":"vless","server":"www.digitalocean.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.baipiao.eu.org_2","type":"vless","server":"www.baipiao.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-3","type":"vless","server":"icook.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.shopify.com _1","type":"vless","server":"www.shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-2","type":"vless","server":"japan.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com _3","type":"vless","server":"www.udacity.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-2","type":"vless","server":"singapore.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org_2","type":"vless","server":"www.4chan.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gov.se _4","type":"vless","server":"www.gov.se","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com _3","type":"vless","server":"www.hugedomains.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.gov.se _5","type":"vless","server":"www.gov.se","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com _4","type":"vless","server":"www.csgo.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org_1","type":"vless","server":"cdn.anycast.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  - 1","type":"vless","server":"www.visa.co.jp","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com _3","type":"vless","server":"www.whatismyip.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"malaysia.com","type":"vless","server":"malaysia.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg ","type":"vless","server":"www.visa.com.sg","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-1","type":"vless","server":"www.visa.com.sg","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"shopify.com","type":"vless","server":"shopify.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp ","type":"vless","server":"www.visa.co.jp","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg ","type":"vless","server":"www.visa.com.sg","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com ","type":"vless","server":"www.visa.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  - 2","type":"vless","server":"www.visa.co.jp","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-2","type":"vless","server":"www.visa.com.sg","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.visa.com _2","type":"vless","server":"www.visa.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"🇸🇬 www.visa.com.sg","type":"vless","server":"www.visa.com.sg","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg ","type":"vless","server":"www.visa.com.sg","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com ","type":"vless","server":"japan.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg ","type":"vless","server":"www.visa.com.sg","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com ","type":"vless","server":"www.digitalocean.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg ","type":"vless","server":"www.visa.com.sg","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-3","type":"vless","server":"www.visa.com.sg","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-3","type":"vless","server":"japan.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-4","type":"vless","server":"www.visa.com.sg","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com _2","type":"vless","server":"www.digitalocean.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-5","type":"vless","server":"www.visa.com.sg","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.visa.com","type":"vless","server":"www.visa.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net ","type":"vless","server":"www.whoer.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net ","type":"vless","server":"www.whoer.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp ","type":"vless","server":"www.visa.co.jp","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk ","type":"vless","server":"www.visa.com.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com ","type":"vless","server":"singapore.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com ","type":"vless","server":"www.whatismyip.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com","type":"vless","server":"russia.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whoer.net _3","type":"vless","server":"www.whoer.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whoer.net _4","type":"vless","server":"www.whoer.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  - 3","type":"vless","server":"www.visa.co.jp","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-2","type":"vless","server":"www.visa.com.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 新加坡-4","type":"vless","server":"singapore.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com _4","type":"vless","server":"www.whatismyip.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯 -2","type":"vless","server":"russia.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.visa.com_2","type":"vless","server":"www.visa.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp","type":"vless","server":"www.visa.co.jp","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk","type":"vless","server":"www.visa.com.hk","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com ","type":"vless","server":"www.visa.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk","type":"vless","server":"www.visa.com.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  -1","type":"vless","server":"www.visa.co.jp","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-1","type":"vless","server":"www.visa.com.hk","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.visa.com _3","type":"vless","server":"www.visa.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-2","type":"vless","server":"www.visa.com.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"cdn.xn--b6gac.eu.org","type":"vless","server":"cdn.xn--b6gac.eu.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com","type":"vless","server":"www.visakorea.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com ","type":"vless","server":"www.visa.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn-b100.xn--b6gac.eu.org ","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com ","type":"vless","server":"www.visakorea.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com ","type":"vless","server":"www.visakorea.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw ","type":"vless","server":"icook.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp","type":"vless","server":"www.visa.co.jp","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw","type":"vless","server":"www.visa.com.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw ","type":"vless","server":"www.visa.com.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp ","type":"vless","server":"www.visa.co.jp","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"malaysia.com ","type":"vless","server":"malaysia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw","type":"vless","server":"www.visa.com.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com ","type":"vless","server":"www.visakorea.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk ","type":"vless","server":"www.visa.com.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com ","type":"vless","server":"www.visakorea.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk ","type":"vless","server":"www.visa.com.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw ","type":"vless","server":"www.visa.com.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com","type":"vless","server":"www.visakorea.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇮🇸 time.is ","type":"vless","server":"time.is","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udemy.com ","type":"vless","server":"www.udemy.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 www.visakorea.com_1","type":"vless","server":"www.visakorea.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.visa.com _4","type":"vless","server":"www.visa.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn-b100.xn--b6gac.eu.org _1","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 韩国 -1","type":"vless","server":"www.visakorea.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 韩国 -2","type":"vless","server":"www.visakorea.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-3","type":"vless","server":"icook.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  -2","type":"vless","server":"www.visa.co.jp","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 www.visa.com.tw_1","type":"vless","server":"www.visa.com.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-3","type":"vless","server":"www.visa.com.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本  - 4","type":"vless","server":"www.visa.co.jp","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"malaysia.com _4","type":"vless","server":"malaysia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 www.visa.com.tw_2","type":"vless","server":"www.visa.com.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 韩国 -3","type":"vless","server":"www.visakorea.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-3","type":"vless","server":"www.visa.com.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 韩国 -4","type":"vless","server":"www.visakorea.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-4","type":"vless","server":"www.visa.com.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-4","type":"vless","server":"www.visa.com.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇰🇷 www.visakorea.com_2","type":"vless","server":"www.visakorea.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇮🇸 英国-4","type":"vless","server":"time.is","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udemy.com _1","type":"vless","server":"www.udemy.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"cdn-all.xn--b6gac.eu.org","type":"vless","server":"www.udemy.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 icook.hk ","type":"vless","server":"icook.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udemy.com ","type":"vless","server":"www.udemy.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"ip.sb ","type":"vless","server":"ip.sb","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn.anycast.eu.org","type":"vless","server":"cdn.anycast.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org ","type":"vless","server":"www.4chan.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"ip.sb ","type":"vless","server":"ip.sb","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com ","type":"vless","server":"www.digitalocean.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 japan.com ","type":"vless","server":"japan.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whatismyip.com","type":"vless","server":"www.whatismyip.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.hugedomains.com ","type":"vless","server":"www.hugedomains.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-4","type":"vless","server":"icook.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udemy.com _2","type":"vless","server":"www.udemy.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ip.sb _4","type":"vless","server":"ip.sb","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn.anycast.eu.org_2","type":"vless","server":"cdn.anycast.eu.org","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org _3","type":"vless","server":"www.4chan.org","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"ip.sb _5","type":"vless","server":"ip.sb","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com _3","type":"vless","server":"www.digitalocean.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇯🇵 日本-4","type":"vless","server":"japan.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whatismyip.com_2","type":"vless","server":"www.whatismyip.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.hugedomains.com _4","type":"vless","server":"www.hugedomains.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"ip.sb","type":"vless","server":"ip.sb","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.ipget.net ","type":"vless","server":"www.ipget.net","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com ","type":"vless","server":"time.cloudflare.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com","type":"vless","server":"www.csgo.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.shopify.com ","type":"vless","server":"www.shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.shopify.com ","type":"vless","server":"www.shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 icook.hk","type":"vless","server":"icook.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.ipget.net _4","type":"vless","server":"www.ipget.net","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com _3","type":"vless","server":"time.cloudflare.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com_1","type":"vless","server":"www.csgo.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.shopify.com _2","type":"vless","server":"www.shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.shopify.com _3","type":"vless","server":"www.shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇭🇰 香港-","type":"vless","server":"icook.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
   - {"name":"www.gov.se","type":"vless","server":"www.gov.se","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.digitalocean.com ","type":"vless","server":"www.digitalocean.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"malaysia.com ","type":"vless","server":"malaysia.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 icook.tw ","type":"vless","server":"icook.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇮🇸 time.is ","type":"vless","server":"time.is","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"time.cloudflare.com ","type":"vless","server":"time.cloudflare.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udemy.com","type":"vless","server":"www.udemy.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udemy.com ","type":"vless","server":"www.udemy.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"xn--b6gac.eu.org","type":"vless","server":"xn--b6gac.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com ","type":"vless","server":"russia.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net ","type":"vless","server":"www.whoer.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.4chan.org ","type":"vless","server":"www.4chan.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com","type":"vless","server":"www.csgo.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.udacity.com ","type":"vless","server":"www.udacity.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"cdn-b100.xn--b6gac.eu.org ","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.digitalocean.com _4","type":"vless","server":"www.digitalocean.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"malaysia.com _5","type":"vless","server":"malaysia.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇹🇼 台湾-4","type":"vless","server":"icook.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇮🇸 英国-5","type":"vless","server":"time.is","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"time.cloudflare.com _4","type":"vless","server":"time.cloudflare.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udemy.com_2","type":"vless","server":"www.udemy.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udemy.com _3","type":"vless","server":"www.udemy.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"xn--b6gac.eu.org_2","type":"vless","server":"xn--b6gac.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇷🇺 俄罗斯-4","type":"vless","server":"russia.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.whoer.net _5","type":"vless","server":"www.whoer.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.4chan.org _4","type":"vless","server":"www.4chan.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.csgo.com_2","type":"vless","server":"www.csgo.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"www.udacity.com _4","type":"vless","server":"www.udacity.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"cdn-b100.xn--b6gac.eu.org _2","type":"vless","server":"cdn-b100.xn--b6gac.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2新加坡-
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.ua _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1469,206 +1477,206 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - "🇮🇸 time.is"
-      - "www.shopify.com"
-      - "cdn.anycast.eu.org "
-      - "www.glassdoor.com "
-      - "www.csgo.com "
-      - "🇸🇬 singapore.com"
-      - "🇭🇰 icook.hk "
-      - "www.4chan.org "
-      - "www.baipiao.eu.org "
-      - "🇸🇬 singapore.com "
-      - "www.gov.ua "
-      - "www.gov.ua"
-      - "www.ipget.net "
-      - "www.baipiao.eu.org"
-      - "🇸🇬 singapore.com "
-      - "www.4chan.org "
-      - "www.gco.gov.qa "
-      - "www.4chan.org"
-      - "cdn.anycast.eu.org "
-      - "cdn.anycast.eu.org "
-      - "🇹🇼 icook.tw"
-      - "www.gov.ua "
-      - "www.ipget.net"
-      - "🇯🇵 japan.com "
-      - "xn--b6gac.eu.org"
-      - "www.ipget.net"
-      - "www.gov.ua "
-      - "www.whatismyip.com"
-      - "xn--b6gac.eu.org "
-      - "www.whoer.net"
-      - "malaysia.com "
-      - "www.glassdoor.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "🇹🇼 icook.tw"
-      - "www.visa.com_1"
-      - "www.gco.gov.qa "
-      - "www.whatismyip.com "
-      - "ip.sb "
-      - "www.visa.com "
-      - "🇷🇺 russia.com "
-      - "www.baipiao.eu.org "
-      - "www.hugedomains.com"
-      - "www.gov.ua "
-      - "🇯🇵 japan.com"
-      - "www.gco.gov.qa "
-      - "time.cloudflare.com"
-      - "cdn.anycast.eu.org "
-      - "🇭🇰 icook.hk "
-      - "shopify.com "
-      - "www.baipiao.eu.org "
-      - "www.digitalocean.com"
-      - "www.udacity.com"
-      - "www.gov.ua"
-      - "www.hugedomains.com "
-      - "ip.sb "
-      - "www.udacity.com"
-      - "malaysia.com "
-      - "time.cloudflare.com "
-      - "www.ipget.net "
-      - "shopify.com "
-      - "time.cloudflare.com"
-      - "www.udacity.com "
-      - "www.ipget.net "
-      - "🇷🇺 russia.com "
-      - "xn--b6gac.eu.org "
-      - "🇹🇼 icook.tw "
-      - "www.udemy.com"
-      - "xn--b6gac.eu.org "
-      - "🇮🇸 time.is "
-      - "🇮🇸 time.is "
-      - "www.glassdoor.com "
-      - "www.whatismyip.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇭🇰 www.visa.com.hk "
-      - "www.csgo.com "
-      - "www.whoer.net "
-      - "shopify.com "
-      - "www.hugedomains.com"
-      - "www.hugedomains.com "
-      - "shopify.com "
-      - "www.whoer.net "
-      - "www.gov.se "
-      - "www.glassdoor.com"
-      - "www.csgo.com "
-      - "shopify.com "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇸🇬 singapore.com "
-      - "www.gov.se "
-      - "cdn.xn--b6gac.eu.org "
-      - "www.gco.gov.qa "
-      - "🇷🇺 russia.com "
-      - "ip.sb "
-      - "www.gov.se "
-      - "www.baipiao.eu.org "
-      - "time.cloudflare.com "
-      - "🇷🇺 russia.com"
-      - "🇯🇵 japan.com"
-      - "www.udacity.com "
-      - "www.gco.gov.qa"
-      - "www.glassdoor.com "
-      - "malaysia.com "
-      - "xn--b6gac.eu.org "
-      - "www.gco.gov.qa"
-      - "www.digitalocean.com "
-      - "www.glassdoor.com "
-      - "www.digitalocean.com"
-      - "www.baipiao.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.shopify.com "
-      - "🇯🇵 japan.com "
-      - "www.udacity.com "
-      - "🇸🇬 singapore.com"
-      - "www.4chan.org"
-      - "www.gov.se "
-      - "www.hugedomains.com "
-      - "www.gov.se "
-      - "www.csgo.com "
-      - "cdn.anycast.eu.org"
-      - "🇯🇵 www.visa.co.jp "
-      - "www.whatismyip.com "
-      - "malaysia.com"
-      - "🇸🇬 www.visa.com.sg "
-      - "shopify.com"
-      - "🇯🇵 www.visa.co.jp "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com "
-      - "🇸🇬 www.visa.com.sg"
-      - "🇸🇬 www.visa.com.sg "
-      - "🇯🇵 japan.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.digitalocean.com "
-      - "🇸🇬 www.visa.com.sg "
-      - "www.visa.com"
-      - "www.whoer.net "
-      - "www.whoer.net "
-      - "🇯🇵 www.visa.co.jp "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇸🇬 singapore.com "
-      - "www.whatismyip.com "
-      - "🇷🇺 russia.com"
-      - "www.visa.com_2"
-      - "🇯🇵 www.visa.co.jp"
-      - "🇭🇰 www.visa.com.hk"
-      - "www.visa.com "
-      - "🇭🇰 www.visa.com.hk"
-      - "cdn.xn--b6gac.eu.org"
-      - "🇰🇷 www.visakorea.com"
-      - "www.visa.com "
-      - "cdn-b100.xn--b6gac.eu.org "
-      - "🇰🇷 www.visakorea.com "
-      - "🇰🇷 www.visakorea.com "
-      - "🇹🇼 icook.tw "
-      - "🇯🇵 www.visa.co.jp"
-      - "🇹🇼 www.visa.com.tw"
-      - "🇹🇼 www.visa.com.tw "
-      - "🇯🇵 www.visa.co.jp "
-      - "malaysia.com "
-      - "🇹🇼 www.visa.com.tw"
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇰🇷 www.visakorea.com "
-      - "🇭🇰 www.visa.com.hk "
-      - "🇹🇼 www.visa.com.tw "
-      - "🇰🇷 www.visakorea.com"
-      - "🇮🇸 time.is "
-      - "www.udemy.com "
-      - "cdn-all.xn--b6gac.eu.org"
-      - "🇭🇰 icook.hk "
-      - "www.udemy.com "
-      - "ip.sb "
-      - "cdn.anycast.eu.org"
-      - "www.4chan.org "
-      - "ip.sb "
-      - "www.digitalocean.com "
-      - "🇯🇵 japan.com "
-      - "www.whatismyip.com"
-      - "www.hugedomains.com "
-      - "ip.sb"
-      - "www.ipget.net "
-      - "time.cloudflare.com "
-      - "www.csgo.com"
-      - "www.shopify.com "
-      - "www.shopify.com "
-      - "🇭🇰 icook.hk"
-      - "www.gov.se"
-      - "www.digitalocean.com "
-      - "malaysia.com "
-      - "🇹🇼 icook.tw "
-      - "🇮🇸 time.is "
-      - "time.cloudflare.com "
-      - "www.udemy.com"
-      - "www.udemy.com "
-      - "xn--b6gac.eu.org"
-      - "🇷🇺 russia.com "
-      - "www.whoer.net "
-      - "www.4chan.org "
-      - "www.csgo.com"
-      - "www.udacity.com "
-      - "cdn-b100.xn--b6gac.eu.org "
+      - 🇮🇸 time.is
+      - www.shopify.com
+      - cdn.anycast.eu.org _1
+      - www.glassdoor.com _1
+      - www.csgo.com _1
+      - 🇸🇬 新加坡-1
+      - 🇭🇰 香港-1新加坡-
+      - www.4chan.org _1
+      - www.baipiao.eu.org _1
+      - 🇸🇬 新加坡-1
+      - ua-1
+      - ua  - 1
+      - www.ipget.net _1
+      - www.baipiao.eu.org_1
+      - 🇸🇬 新加坡-2
+      - www.4chan.org _2
+      - www.gco.gov.qa _1
+      - www.4chan.org_1
+      - cdn.anycast.eu.org _2
+      - cdn.anycast.eu.org _3
+      - 🇹🇼 台湾-1
+      - ua-2
+      - www.ipget.net_1
+      - 🇯🇵 日本-1
+      - xn--b6gac.eu.org_1
+      - www.ipget.net_2
+      - ua-3
+      - www.whatismyip.com_1
+      - xn--b6gac.eu.org _1
+      - www.whoer.net
+      - malaysia.com _1
+      - www.glassdoor.com _2
+      - 🇹🇼 台湾-1
+      - 🇮🇸 英国-1
+      - 🇹🇼 台湾-2
+      - www.visa.com_1
+      - www.gco.gov.qa _2
+      - www.whatismyip.com _1
+      - ip.sb _1
+      - www.visa.com _1
+      - 🇷🇺 俄罗斯-1
+      - www.baipiao.eu.org _2
+      - www.hugedomains.com_1
+      - ua-4
+      - 🇯🇵 日本-1
+      - www.gco.gov.qa _3
+      - time.cloudflare.com_1
+      - cdn.anycast.eu.org _4
+      - 🇭🇰 香港-2
+      - shopify.com _1
+      - www.baipiao.eu.org _3
+      - www.digitalocean.com_1
+      - www.udacity.com_1
+      - ua  - 2
+      - www.hugedomains.com _1
+      - ip.sb _2
+      - www.udacity.com_2
+      - malaysia.com _2
+      - time.cloudflare.com _1
+      - www.ipget.net _2
+      - shopify.com _2
+      - time.cloudflare.com_2
+      - www.udacity.com _1
+      - www.ipget.net _3
+      - 🇷🇺 俄罗斯-2
+      - xn--b6gac.eu.org _2
+      - 🇹🇼 台湾-2
+      - www.udemy.com_1
+      - xn--b6gac.eu.org _3
+      - 🇮🇸 英国-2
+      - 🇮🇸 英国-3
+      - www.glassdoor.com _3
+      - www.whatismyip.com _2
+      - 🇹🇼 台湾-1
+      - 🇭🇰 香港-1
+      - www.csgo.com _2
+      - www.whoer.net _1
+      - shopify.com _3
+      - www.hugedomains.com_2
+      - www.hugedomains.com _2
+      - shopify.com _4
+      - www.whoer.net _2
+      - www.gov.se _1
+      - www.glassdoor.com
+      - www.csgo.com _3
+      - shopify.com _5
+      - 🇹🇼 台湾-2
+      - 🇸🇬 新加坡-3
+      - www.gov.se _2
+      - 'cdn.xn--b6gac.eu.org '
+      - www.gco.gov.qa _4
+      - 🇷🇺 俄罗斯-3
+      - ip.sb _3
+      - www.gov.se _3
+      - www.baipiao.eu.org _4
+      - time.cloudflare.com _2
+      - 🇷🇺 俄罗斯 -1
+      - 🇯🇵 日本-2
+      - www.udacity.com _2
+      - www.gco.gov.qa_1
+      - www.glassdoor.com _4
+      - malaysia.com _3
+      - xn--b6gac.eu.org _4
+      - www.gco.gov.qa_2
+      - www.digitalocean.com _1
+      - www.glassdoor.com _5
+      - www.digitalocean.com_2
+      - www.baipiao.eu.org_2
+      - 🇭🇰 香港-3
+      - www.shopify.com _1
+      - 🇯🇵 日本-2
+      - www.udacity.com _3
+      - 🇸🇬 新加坡-2
+      - www.4chan.org_2
+      - www.gov.se _4
+      - www.hugedomains.com _3
+      - www.gov.se _5
+      - www.csgo.com _4
+      - cdn.anycast.eu.org_1
+      - 🇯🇵 日本  - 1
+      - www.whatismyip.com _3
+      - malaysia.com
+      - 🇸🇬 新加坡-1
+      - shopify.com
+      - 🇯🇵 日本  - 2
+      - 🇸🇬 新加坡-2
+      - www.visa.com _2
+      - 🇸🇬 www.visa.com.sg
+      - 🇸🇬 新加坡-3
+      - 🇯🇵 日本-3
+      - 🇸🇬 新加坡-4
+      - www.digitalocean.com _2
+      - 🇸🇬 新加坡-5
+      - www.visa.com
+      - www.whoer.net _3
+      - www.whoer.net _4
+      - 🇯🇵 日本  - 3
+      - 🇭🇰 香港-2
+      - 🇸🇬 新加坡-4
+      - www.whatismyip.com _4
+      - 🇷🇺 俄罗斯 -2
+      - www.visa.com_2
+      - 🇯🇵 日本  -1
+      - 🇭🇰 香港-1
+      - www.visa.com _3
+      - 🇭🇰 香港-2
+      - cdn.xn--b6gac.eu.org
+      - 🇰🇷 www.visakorea.com_1
+      - www.visa.com _4
+      - cdn-b100.xn--b6gac.eu.org _1
+      - 🇰🇷 韩国 -1
+      - 🇰🇷 韩国 -2
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  -2
+      - 🇹🇼 www.visa.com.tw_1
+      - 🇹🇼 台湾-3
+      - 🇯🇵 日本  - 4
+      - malaysia.com _4
+      - 🇹🇼 www.visa.com.tw_2
+      - 🇰🇷 韩国 -3
+      - 🇭🇰 香港-3
+      - 🇰🇷 韩国 -4
+      - 🇭🇰 香港-4
+      - 🇹🇼 台湾-4
+      - 🇰🇷 www.visakorea.com_2
+      - 🇮🇸 英国-4
+      - www.udemy.com _1
+      - cdn-all.xn--b6gac.eu.org
+      - 🇭🇰 香港-4
+      - www.udemy.com _2
+      - ip.sb _4
+      - cdn.anycast.eu.org_2
+      - www.4chan.org _3
+      - ip.sb _5
+      - www.digitalocean.com _3
+      - 🇯🇵 日本-4
+      - www.whatismyip.com_2
+      - www.hugedomains.com _4
+      - ip.sb
+      - www.ipget.net _4
+      - time.cloudflare.com _3
+      - www.csgo.com_1
+      - www.shopify.com _2
+      - www.shopify.com _3
+      - 🇭🇰 香港-
+      - www.gov.se
+      - www.digitalocean.com _4
+      - malaysia.com _5
+      - 🇹🇼 台湾-4
+      - 🇮🇸 英国-5
+      - time.cloudflare.com _4
+      - www.udemy.com_2
+      - www.udemy.com _3
+      - xn--b6gac.eu.org_2
+      - 🇷🇺 俄罗斯-4
+      - www.whoer.net _5
+      - www.4chan.org _4
+      - www.csgo.com_2
+      - www.udacity.com _4
+      - cdn-b100.xn--b6gac.eu.org _2
 
 rules:
 # 本地/局域网地址
