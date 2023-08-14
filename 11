@@ -14,410 +14,676 @@ dns:
     - tls://dns.google:853
 
 proxies:
-  - {"name":"🇹🇼 台湾 3","type":"vless","server":"www.visa.com.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com 7","type":"vless","server":"shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇷🇺 russia.com","type":"vless","server":"russia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com 5","type":"vless","server":"singapore.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp","type":"vless","server":"www.visa.co.jp","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com 3","type":"vless","server":"www.csgo.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 4","type":"vless","server":"www.visa.com.sg","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com 2","type":"vless","server":"www.visakorea.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw 2","type":"vless","server":"www.visa.com.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com 5","type":"vless","server":"shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw 5","type":"vless","server":"www.visa.com.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net 3","type":"vless","server":"www.whoer.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw 4","type":"vless","server":"www.visa.com.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com 6","type":"vless","server":"www.visa.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 3","type":"vless","server":"www.visa.com.sg","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com","type":"vless","server":"shopify.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com 3","type":"vless","server":"shopify.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com 5","type":"vless","server":"www.visa.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp 5","type":"vless","server":"www.visa.co.jp","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp 3","type":"vless","server":"www.visa.co.jp","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com 7","type":"vless","server":"www.visa.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com 2","type":"vless","server":"shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com","type":"vless","server":"www.visakorea.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw 7","type":"vless","server":"www.visa.com.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 7","type":"vless","server":"www.visa.com.sg","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk 5","type":"vless","server":"www.visa.com.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp 6","type":"vless","server":"www.visa.co.jp","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net 6","type":"vless","server":"www.whoer.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com 4","type":"vless","server":"www.visakorea.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk 7","type":"vless","server":"www.visa.com.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com 5","type":"vless","server":"www.visakorea.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk 6","type":"vless","server":"www.visa.com.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com 3","type":"vless","server":"www.visakorea.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 5","type":"vless","server":"www.visa.com.sg","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp 7","type":"vless","server":"www.visa.co.jp","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net","type":"vless","server":"www.whoer.net","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk","type":"vless","server":"www.visa.com.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"shopify.com 6","type":"vless","server":"shopify.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 2","type":"vless","server":"www.visa.com.sg","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk 3","type":"vless","server":"www.visa.com.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇭🇰 www.visa.com.hk 4","type":"vless","server":"www.visa.com.hk","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com 2","type":"vless","server":"www.visa.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net 2","type":"vless","server":"www.whoer.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net 5","type":"vless","server":"www.whoer.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.csgo.com 7","type":"vless","server":"www.csgo.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇰🇷 www.visakorea.com 7","type":"vless","server":"www.visakorea.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com","type":"vless","server":"www.visa.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.whoer.net 7","type":"vless","server":"www.whoer.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇯🇵 www.visa.co.jp 4","type":"vless","server":"www.visa.co.jp","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 www.visa.com.sg 6","type":"vless","server":"www.visa.com.sg","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇸🇬 singapore.com","type":"vless","server":"singapore.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"🇹🇼 www.visa.com.tw","type":"vless","server":"www.visa.com.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
-  - {"name":"www.visa.com 4","type":"vless","server":"www.visa.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":false,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}}}
+  - {"name":"🇸🇬 www.visa.com.sg 6","type":"vless","server":"www.visa.com.sg","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp 6","type":"vless","server":"www.visa.co.jp","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 japan.com 7","type":"vless","server":"japan.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com 4","type":"vless","server":"www.visa.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 singapore.com 3","type":"vless","server":"singapore.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com 5","type":"vless","server":"www.visa.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk 4","type":"vless","server":"www.visa.com.hk","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk 6","type":"vless","server":"www.visa.com.hk","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com 7","type":"vless","server":"www.visakorea.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com","type":"vless","server":"shopify.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com 6","type":"vless","server":"www.visa.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp","type":"vless","server":"www.visa.co.jp","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 japan.com 3","type":"vless","server":"japan.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp 5","type":"vless","server":"www.visa.co.jp","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com","type":"vless","server":"www.visakorea.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com 7","type":"vless","server":"www.visa.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"malaysia.com 4","type":"vless","server":"malaysia.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp 4","type":"vless","server":"www.visa.co.jp","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"malaysia.com 2","type":"vless","server":"malaysia.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw 5","type":"vless","server":"www.visa.com.tw","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk","type":"vless","server":"www.visa.com.hk","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.csgo.com 7","type":"vless","server":"www.csgo.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 www.visa.com.sg 5","type":"vless","server":"www.visa.com.sg","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net 2","type":"vless","server":"www.whoer.net","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net 7","type":"vless","server":"www.whoer.net","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 www.visa.com.sg 4","type":"vless","server":"www.visa.com.sg","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp 3","type":"vless","server":"www.visa.co.jp","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw 7","type":"vless","server":"www.visa.com.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com 5","type":"vless","server":"shopify.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com 3","type":"vless","server":"shopify.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com 3","type":"vless","server":"www.visakorea.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw","type":"vless","server":"www.visa.com.tw","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net 3","type":"vless","server":"www.whoer.net","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk 7","type":"vless","server":"www.visa.com.hk","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com 2","type":"vless","server":"shopify.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com 5","type":"vless","server":"www.visakorea.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com 2","type":"vless","server":"www.visakorea.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 singapore.com 5","type":"vless","server":"singapore.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com 2","type":"vless","server":"www.visa.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 www.visa.com.sg 3","type":"vless","server":"www.visa.com.sg","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.gov.ua 6","type":"vless","server":"www.gov.ua","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net 6","type":"vless","server":"www.whoer.net","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com 7","type":"vless","server":"shopify.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"shopify.com 6","type":"vless","server":"shopify.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk 3","type":"vless","server":"www.visa.com.hk","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw 3","type":"vless","server":"www.visa.com.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net","type":"vless","server":"www.whoer.net","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇮🇸 time.is","type":"vless","server":"time.is","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.csgo.com 5","type":"vless","server":"www.csgo.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.visa.com","type":"vless","server":"www.visa.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw 4","type":"vless","server":"www.visa.com.tw","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 www.visa.co.jp 7","type":"vless","server":"www.visa.co.jp","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 www.visa.com.tw 2","type":"vless","server":"www.visa.com.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whoer.net 5","type":"vless","server":"www.whoer.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 singapore.com","type":"vless","server":"singapore.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇭🇰 www.visa.com.hk 5","type":"vless","server":"www.visa.com.hk","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇰🇷 www.visakorea.com 4","type":"vless","server":"www.visakorea.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 www.visa.com.sg 2","type":"vless","server":"www.visa.com.sg","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.hugedomains.com 4","type":"vless","server":"www.hugedomains.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 japan.com","type":"vless","server":"japan.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"cdn.anycast.eu.org 5","type":"vless","server":"cdn.anycast.eu.org","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇸🇬 singapore.com 6","type":"vless","server":"singapore.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇷🇺 russia.com 4","type":"vless","server":"russia.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"ip.sb 3","type":"vless","server":"ip.sb","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"ip.sb 5","type":"vless","server":"ip.sb","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.gov.ua 4","type":"vless","server":"www.gov.ua","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 icook.tw 4","type":"vless","server":"icook.tw","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.baipiao.eu.org 3","type":"vless","server":"www.baipiao.eu.org","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 icook.tw 3","type":"vless","server":"icook.tw","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.udemy.com 4","type":"vless","server":"www.udemy.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇮🇸 time.is 6","type":"vless","server":"time.is","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.hugedomains.com 7","type":"vless","server":"www.hugedomains.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.hugedomains.com 3","type":"vless","server":"www.hugedomains.com","port":2052,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.udacity.com 6","type":"vless","server":"www.udacity.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇮🇸 time.is 5","type":"vless","server":"time.is","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"time.cloudflare.com 4","type":"vless","server":"time.cloudflare.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whatismyip.com 5","type":"vless","server":"www.whatismyip.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.hugedomains.com 6","type":"vless","server":"www.hugedomains.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.digitalocean.com 7","type":"vless","server":"www.digitalocean.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"malaysia.com 7","type":"vless","server":"malaysia.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"ip.sb","type":"vless","server":"ip.sb","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.whatismyip.com 4","type":"vless","server":"www.whatismyip.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇷🇺 russia.com 6","type":"vless","server":"russia.com","port":8080,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.udacity.com","type":"vless","server":"www.udacity.com","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.gco.gov.qa 3","type":"vless","server":"www.gco.gov.qa","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"time.cloudflare.com 3","type":"vless","server":"time.cloudflare.com","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.gov.se 6","type":"vless","server":"www.gov.se","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇹🇼 icook.tw 7","type":"vless","server":"icook.tw","port":80,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.hugedomains.com","type":"vless","server":"www.hugedomains.com","port":2095,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"www.ipget.net 7","type":"vless","server":"www.ipget.net","port":8880,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
+  - {"name":"🇯🇵 japan.com 4","type":"vless","server":"japan.com","port":2086,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"cf.yugong26.workers.dev","network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"cf.yugong26.workers.dev"}},"client-fingerprint":"random"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -440,59 +706,97 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇹🇼 台湾 3
-      - shopify.com 7
-      - 🇷🇺 russia.com
-      - 🇸🇬 singapore.com 5
-      - 🇯🇵 www.visa.co.jp
-      - www.csgo.com 3
-      - 🇸🇬 www.visa.com.sg 4
-      - 🇰🇷 www.visakorea.com 2
-      - 🇹🇼 www.visa.com.tw 2
-      - shopify.com 5
-      - 🇹🇼 www.visa.com.tw 5
-      - www.whoer.net 3
-      - 🇹🇼 www.visa.com.tw 4
-      - www.visa.com 6
-      - 🇸🇬 www.visa.com.sg 3
-      - shopify.com
-      - shopify.com 3
-      - www.visa.com 5
-      - 🇯🇵 www.visa.co.jp 5
-      - 🇯🇵 www.visa.co.jp 3
-      - www.visa.com 7
-      - shopify.com 2
-      - 🇰🇷 www.visakorea.com
-      - 🇹🇼 www.visa.com.tw 7
-      - 🇸🇬 www.visa.com.sg 7
-      - 🇭🇰 www.visa.com.hk 5
-      - 🇯🇵 www.visa.co.jp 6
-      - www.whoer.net 6
-      - 🇰🇷 www.visakorea.com 4
-      - 🇭🇰 www.visa.com.hk 7
-      - 🇰🇷 www.visakorea.com 5
-      - 🇭🇰 www.visa.com.hk 6
-      - 🇰🇷 www.visakorea.com 3
-      - 🇸🇬 www.visa.com.sg 5
-      - 🇯🇵 www.visa.co.jp 7
-      - www.whoer.net
-      - 🇭🇰 www.visa.com.hk
-      - shopify.com 6
-      - 🇸🇬 www.visa.com.sg 2
-      - 🇭🇰 www.visa.com.hk 3
-      - 🇭🇰 www.visa.com.hk 4
-      - www.visa.com 2
-      - www.whoer.net 2
-      - www.whoer.net 5
-      - www.csgo.com 7
-      - 🇰🇷 www.visakorea.com 7
-      - www.visa.com
-      - www.whoer.net 7
-      - 🇯🇵 www.visa.co.jp 4
       - 🇸🇬 www.visa.com.sg 6
-      - 🇸🇬 singapore.com
-      - 🇹🇼 www.visa.com.tw
+      - 🇯🇵 www.visa.co.jp 6
+      - 🇯🇵 japan.com 7
       - www.visa.com 4
+      - 🇸🇬 singapore.com 3
+      - www.visa.com 5
+      - 🇭🇰 www.visa.com.hk 4
+      - 🇭🇰 www.visa.com.hk 6
+      - 🇰🇷 www.visakorea.com 7
+      - shopify.com
+      - www.visa.com 6
+      - 🇯🇵 www.visa.co.jp
+      - 🇯🇵 japan.com 3
+      - 🇯🇵 www.visa.co.jp 5
+      - 🇰🇷 www.visakorea.com
+      - www.visa.com 7
+      - malaysia.com 4
+      - 🇯🇵 www.visa.co.jp 4
+      - malaysia.com 2
+      - 🇹🇼 www.visa.com.tw 5
+      - 🇭🇰 www.visa.com.hk
+      - www.csgo.com 7
+      - 🇸🇬 www.visa.com.sg 5
+      - www.whoer.net 2
+      - www.whoer.net 7
+      - 🇸🇬 www.visa.com.sg 4
+      - 🇯🇵 www.visa.co.jp 3
+      - 🇹🇼 www.visa.com.tw 7
+      - shopify.com 5
+      - shopify.com 3
+      - 🇰🇷 www.visakorea.com 3
+      - 🇹🇼 www.visa.com.tw
+      - www.whoer.net 3
+      - 🇭🇰 www.visa.com.hk 7
+      - shopify.com 2
+      - 🇰🇷 www.visakorea.com 5
+      - 🇰🇷 www.visakorea.com 2
+      - 🇸🇬 singapore.com 5
+      - www.visa.com 2
+      - 🇸🇬 www.visa.com.sg 3
+      - www.gov.ua 6
+      - www.whoer.net 6
+      - shopify.com 7
+      - shopify.com 6
+      - 🇭🇰 www.visa.com.hk 3
+      - 🇹🇼 www.visa.com.tw 3
+      - www.whoer.net
+      - 🇮🇸 time.is
+      - www.csgo.com 5
+      - www.visa.com
+      - 🇹🇼 www.visa.com.tw 4
+      - 🇯🇵 www.visa.co.jp 7
+      - 🇹🇼 www.visa.com.tw 2
+      - www.whoer.net 5
+      - 🇸🇬 singapore.com
+      - 🇭🇰 www.visa.com.hk 5
+      - 🇰🇷 www.visakorea.com 4
+      - 🇸🇬 www.visa.com.sg 2
+      - www.hugedomains.com 4
+      - 🇯🇵 japan.com
+      - cdn.anycast.eu.org 5
+      - 🇸🇬 singapore.com 6
+      - 🇷🇺 russia.com 4
+      - ip.sb 3
+      - ip.sb 5
+      - www.gov.ua 4
+      - 🇹🇼 icook.tw 4
+      - www.baipiao.eu.org 3
+      - 🇹🇼 icook.tw 3
+      - www.udemy.com 4
+      - 🇮🇸 time.is 6
+      - www.hugedomains.com 7
+      - www.hugedomains.com 3
+      - www.udacity.com 6
+      - 🇮🇸 time.is 5
+      - time.cloudflare.com 4
+      - www.whatismyip.com 5
+      - www.hugedomains.com 6
+      - www.digitalocean.com 7
+      - malaysia.com 7
+      - ip.sb
+      - www.whatismyip.com 4
+      - 🇷🇺 russia.com 6
+      - www.udacity.com
+      - www.gco.gov.qa 3
+      - time.cloudflare.com 3
+      - www.gov.se 6
+      - 🇹🇼 icook.tw 7
+      - www.hugedomains.com
+      - www.ipget.net 7
+      - 🇯🇵 japan.com 4
 
 rules:
 # 本地/局域网地址
